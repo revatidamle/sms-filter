@@ -1,0 +1,2 @@
+This is a project to use Machine learning techniques to filter spam messages from the really important ones.
+The input would in the format of a text file, The file would contain one message on each line.If the message is a spam or not could be found out by looking at the words after the last comma on each line. If "spam" then it is a spam message. If "ham" its a normal message. 
